@@ -1,14 +1,36 @@
-The first commit.
+The secound commit.
 
 # --------------
 # Please enter the commit message for your changes. Everything below
 # this paragraph is ignored, and an empty message aborts the commit.
 # Just close the window to accept your message.
+diff --git a/COMMIT_EDITMSG.COMMIT_EDITMSG b/COMMIT_EDITMSG.COMMIT_EDITMSG
+new file mode 100644
+index 0000000..2291111
+--- /dev/null
++++ b/COMMIT_EDITMSG.COMMIT_EDITMSG
+@@ -0,0 +1,14 @@
++The first commit.
++
++# --------------
++# Please enter the commit message for your changes. Everything below
++# this paragraph is ignored, and an empty message aborts the commit.
++# Just close the window to accept your message.
++diff --git a/README.md b/README.md
++new file mode 100644
++index 0000000..562abac
++--- /dev/null
+++++ b/README.md
++@@ -0,0 +1 @@
+++This commit is from the Sublime text 2.
++\ No newline at end of file
+\ No newline at end of file
 diff --git a/README.md b/README.md
 new file mode 100644
-index 0000000..562abac
+index 0000000..13a753f
 --- /dev/null
 +++ b/README.md
-@@ -0,0 +1 @@
+@@ -0,0 +1,2 @@
 +This commit is from the Sublime text 2.
++This is TEST.
 \ No newline at end of file
